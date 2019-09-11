@@ -41,7 +41,7 @@ setup_source(){
   #
   # Clone Lambda's Template Repository
   #
-  git clone git@github.com:noize-e/lambda-function-template.git ${code_path} ;
+  git clone git@github.com:noize-e/lambda-microservice.git ${code_path} ;
   # clean template's repo trace
   rm -rf ${code_path}/.git &>/dev/null
 
