@@ -1,6 +1,4 @@
-# Command Line Interface Tools
-
-Unix based (OS-X & Linux) scripts commands toolbox
+# cli tools
 
 ## bash cmds
 
